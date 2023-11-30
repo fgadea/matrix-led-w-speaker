@@ -1,6 +1,6 @@
-#Matrix led with speaker
+# Matrix led with speaker
 
-##Components
+## Components
 - Matrix max7219, 32x8
 - Seeeduino XIAO
 - SPI protocol
